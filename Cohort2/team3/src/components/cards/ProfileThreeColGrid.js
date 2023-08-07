@@ -52,7 +52,7 @@ export default ({
   description = "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
   cards = [
     {
-      imageSrc: "https://avatars.githubusercontent.com/u/122154785?v=4",
+      // imageSrc: "https://avatars.githubusercontent.com/u/122154785?v=4",
       position: "Team Lead",
       name: "Vinod Sharma",
       links: [
@@ -71,7 +71,7 @@ export default ({
       ],
     },
     {
-      imageSrc: "https://avatars.githubusercontent.com/u/93204000?v=4",
+      // imageSrc: "https://avatars.githubusercontent.com/u/93204000?v=4",
       position: "Front End Developer",
       name: "Raeshelle Rose",
       links: [
@@ -90,8 +90,8 @@ export default ({
       ],
     },
     {
-      imageSrc:
-        "https://images.unsplash.com/photo-1517070208541-6ddc4d3efbcb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&fit=facearea&facepad=2.95&w=512&h=512&q=80",
+      // imageSrc:
+      //   "https://images.unsplash.com/photo-1517070208541-6ddc4d3efbcb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&fit=facearea&facepad=2.95&w=512&h=512&q=80",
       position: "Backend Developer",
       name: "Carson Butler",
       links: [
@@ -110,8 +110,8 @@ export default ({
       ],
     },
     {
-      imageSrc:
-        "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&fit=facearea&facepad=2.95&w=512&h=512&q=80",
+      // imageSrc:
+      //   "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&fit=facearea&facepad=2.95&w=512&h=512&q=80",
       position: "Backend / Cloud Developer",
       name: "YooJin Bae",
       links: [
@@ -130,8 +130,8 @@ export default ({
       ],
     },
     {
-      imageSrc:
-        "https://images.unsplash.com/photo-1546820389-44d77e1f3b31?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&fit=facearea&facepad=3.45&w=512&h=512&q=80",
+      // imageSrc:
+      //   "https://images.unsplash.com/photo-1546820389-44d77e1f3b31?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&fit=facearea&facepad=3.45&w=512&h=512&q=80",
       position: "Jr. Developer",
       name: "Ryan Ybarra",
       links: [
